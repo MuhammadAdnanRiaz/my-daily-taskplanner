@@ -1,4 +1,5 @@
 import './globals.css'
+import TaskNavigation from './tasks/nav.component'
 
 export default function RootLayout({
   children,
